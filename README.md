@@ -15,7 +15,13 @@
 -пропускная способность PCI-E 3.0 (x16) 32 Гб/сек.
 -слоты расширения PCI Express и PCI на материнских платах
 -интерфейсы PCI Express на видеокартах
+
 ![PCI Express](https://info-comp.ru/wp-content/uploads/images/stories/kartinki8/pci_express_pci_2.jpg)
+#Память DDR3(double-data-rate three)
+
+
+
+
 
 
 
