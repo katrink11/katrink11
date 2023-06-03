@@ -6,9 +6,5 @@
  работы с сетью
  работы с картами расширений и с внешними устройствами. Эти протоколы развивались с целью обеспечения высокой производительности передачи данных и возможности для пользователей без труда подключать внешние устройства. 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://www.gigabyte.ru/products/upload/products/2165/c456e58c_6.png">
-</picture>
+![Материнская плата GA-H55M-S2V](https://www.gigabyte.ru/products/upload/products/2165/c456e58c_6.png)
 
