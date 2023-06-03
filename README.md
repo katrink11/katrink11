@@ -9,6 +9,6 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://www.technocity.ru/upload/resize_cache/iblock/dd1/400_400_1/z0000015438.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://www.gigabyte.ru/products/upload/products/2165/c456e58c_6.png">
 </picture>
 
